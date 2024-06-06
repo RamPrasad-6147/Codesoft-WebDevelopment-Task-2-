@@ -66,9 +66,9 @@ body {
 
 #display {
     margin: 0 10px;
-    height: 200px;
+    height: 500px;
     width: auto;
-    max-width: 270px;
+    max-width: 600px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
