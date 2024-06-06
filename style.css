@@ -98,7 +98,7 @@ button:hover {
 /* light theme */
 
 .calculator {
-    background-image: url(7450775.jpg);
+    background-colour: #fff;
 }
 
 .calculator #display {
